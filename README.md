@@ -75,3 +75,7 @@ Transparency in the voting process is encouraged. There are a number of existing
 ## What Happens When A Winner Is Declared?
 
 Before starting the procurement process or making any formal announcements, the fund administrators contact the receiving project. This will help ensure that the project is prepared to receive the funds.
+
+## License
+
+All materials in this repo are licensed under the Creative Commons [Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
