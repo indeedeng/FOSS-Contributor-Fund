@@ -1,5 +1,7 @@
 # FOSS Contributor Fund Overview
 
+![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/FOSS-Contributor-Fund.svg)
+
 The FOSS (Free and Open Source Software) Contributor Fund is a framework for selecting open source projects that a company supports financially. This initiative is designed to encourage open source participation and help companies take an active role in sustaining the projects they depend on. The initiative puts the sponsorship decision into the hands of open source contributors within the company, democratizing the sponsorship process.
 
 The salient details of the FOSS Contributor Fund:
