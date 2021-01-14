@@ -9,8 +9,7 @@ exclude_toc: false
 </p>
 <br>
 
-<div 
-border:1px solid black;>
+<div class="boxBorder">
 
 **Contents**
 * TOC
