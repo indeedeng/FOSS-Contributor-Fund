@@ -3,7 +3,7 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: false
 ---
-
+<br>
 <p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="max-width:1000px;max-height:auto;clear:both;padding:10px;"/>
 </p>
@@ -13,6 +13,7 @@ exclude_toc: false
 * TOC
 {:toc}
 
+***
 
 ## Introducing FOSS Contributor Fund
 
