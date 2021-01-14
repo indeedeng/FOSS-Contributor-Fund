@@ -9,8 +9,11 @@ exclude_toc: false
 </p>
 <br>
 
+|                       
 * TOC
 {:toc}
+| 
+| :-------------------- | 
 
 
 ## Introducing FOSS Contributor Fund
