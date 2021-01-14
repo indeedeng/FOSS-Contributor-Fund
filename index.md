@@ -9,9 +9,14 @@ exclude_toc: false
 </p>
 <br>
 
+<div 
+border:1px solid black;>
+
 **Contents**
 * TOC
 {:toc}
+
+</div>
 
 
 ## Introducing FOSS Contributor Fund
