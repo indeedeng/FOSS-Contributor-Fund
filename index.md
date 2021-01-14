@@ -60,3 +60,23 @@ These are some examples of funding methods:
   * [PayPal](https://www.paypal.com/)
   * [GitHub Sponsors](https://github.com/sponsors)
   * An umbrella foundation, such as [Software Freedom Conservancy](https://sfconservancy.org/)
+
+* **The owner of the project can’t be an employee of your organization (or any of its subsidiaries).**<br>
+This helps prevent legal, ethical, or financial complications.
+
+### Who can vote?
+Anyone who makes an open source contribution can vote for a project as long as the contribution is within the same calendar month.
+
+We recommend using [Starfish](https://github.com/indeedeng/starfish), our open source tool that identifies eligible voters. Starfish bases voter eligibility on pull requests, issues, and comments. 
+
+Code and documentation aren’t the only ways employees can contribute to open source projects. For example, they might organize a meetup or volunteer at an event. We recommend that you give voting privileges to these uncounted contributors. 
+
+### How do I collect and count votes?
+We recommend a transparent voting process. There are many internet voting tools, such as integrated Slack polls and [DirectPoll](http://directpoll.com/). 
+
+## How Do I Get Started?
+Visit our [FOSS Contributor Fund repository on GitHub](https://github.com/indeedeng/FOSS-Contributor-Fund) for helpful resources.
+
+
+
+
