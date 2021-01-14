@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Indeed FOSS Contributor Fund
-exclude_toc: true
+title: null
+exclude_toc: false
 ---
+<p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
+</p>
 
 ## Introducing FOSS Contributor Fund
 
@@ -49,12 +51,3 @@ These are some examples of funding methods:
   * [PayPal](https://www.paypal.com/)
   * [GitHub Sponsors](https://github.com/sponsors)
   * An umbrella foundation, such as [Software Freedom Conservancy](https://sfconservancy.org/)
-
-
-## Code of Conduct
-Starfish is governed by the [Contributor Covenant v 1.4.1](https://github.com/indeedeng/starfish/blob/master/CODE_OF_CONDUCT.md)<br><br>
-
-
-## License
-
-[Apache License Version 2.0](https://github.com/indeedeng/starfish/blob/master/LICENSE)
