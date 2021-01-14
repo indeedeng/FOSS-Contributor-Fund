@@ -3,13 +3,7 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: true
 ---
-<img src="{{ site.baseurl }}/images/Proctor.png" style="max-width:125px;max-height:125px;clear:both;padding:10px;" />
 
----
-layout: default
-title: Indeed Foss Contributor Fund
-exclude_toc: false
----
 <p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
 </p>
