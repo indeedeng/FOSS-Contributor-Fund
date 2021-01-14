@@ -9,10 +9,8 @@ exclude_toc: false
 </p>
 <br>
 
-|                       
-* TOC
-{:toc}
-| 
+| * TOC
+{:toc}| 
 | :-------------------- | 
 
 
