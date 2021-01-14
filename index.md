@@ -3,17 +3,12 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: true
 ---
-<nav>
-test
-<br style="clear: left;" />
-
-</nav>
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
 </p>
 
-## Introducing FOSS Contributor Fund
+<h2 name="intro"> Introducing FOSS Contributor Fund</h2>
 
 _Indeed’s program for financially supporting free and open source software (FOSS)._<br><br>
 
