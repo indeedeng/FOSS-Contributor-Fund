@@ -3,7 +3,7 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: true
 ---
-<img src="{{ site.baseurl }}/images/FOSS.png" alt="starfish logo" style="max-width:200px;max-height:200px;clear:both;padding:10px;"/>
+<img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
 
 ## Introducing FOSS Contributor Fund
 
