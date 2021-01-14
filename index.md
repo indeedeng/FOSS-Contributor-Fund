@@ -11,6 +11,7 @@ exclude_toc: false
 ## Contents
 * TOC
 {:toc}
+{{ post.excerpt | strip_html | replace_first: 'Contents', '' | lstrip | truncatewords: 40, "" }}<a href="{{ post.url | relative_url }}">&hellip; read more &raquo;</a>
 
 ## Introducing FOSS Contributor Fund
 
