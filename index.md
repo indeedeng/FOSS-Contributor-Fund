@@ -8,6 +8,7 @@ exclude_toc: false
 <img src="{{ site.baseurl }}/images/foss.png" alt="FOSS Contributor Fund logo"/>
 </p>
 
+* TOC
 {:toc}
 
 ## Introducing FOSS Contributor Fund
