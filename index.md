@@ -8,6 +8,10 @@ exclude_toc: false
 <img src="{{ site.baseurl }}/images/foss.png" alt="FOSS Contributor Fund logo"/>
 </p>
 
+* TOC
+{:toc}
+
+
 ## Introducing FOSS Contributor Fund
 
 _Indeed’s program for financially supporting free and open source software (FOSS)._<br><br>
