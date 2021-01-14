@@ -5,7 +5,7 @@ exclude_toc: false
 ---
 <br>
 <p align="center">
-<img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="width:75%;height:auto"/>
+<img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="width:75%;height:auto;padding-left:10px;"/>
 </p>
 <br>
 <br>
