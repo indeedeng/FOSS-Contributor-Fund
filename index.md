@@ -12,7 +12,7 @@ exclude_toc: false
 **Contents**
 * TOC
 {:toc}
-
+<br>
 ***
 
 ## Introducing FOSS Contributor Fund
