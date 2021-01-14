@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Indeed FOSS Contributor Fund
-exclude_toc: true
+exclude_toc: false
 ---
 
 <p align="center">
