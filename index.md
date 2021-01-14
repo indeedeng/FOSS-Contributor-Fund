@@ -1,12 +1,16 @@
 ---
 layout: default
 title: Indeed FOSS Contributor Fund
-exclude_toc: false
+exclude_toc: true
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
+<img src="{{ site.baseurl }}/images/foss.png" alt="FOSS Contributor Fund logo"/>
 </p>
+
+## Contents
+* TOC
+{:toc}
 
 ## Introducing FOSS Contributor Fund
 
