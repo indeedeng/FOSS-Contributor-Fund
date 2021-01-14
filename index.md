@@ -8,10 +8,7 @@ exclude_toc: false
 <img src="{{ site.baseurl }}/images/foss.png" alt="FOSS Contributor Fund logo"/>
 </p>
 
-## Contents
-* TOC
 {:toc}
-{{ post.excerpt | strip_html | replace_first: 'Contents', '' | lstrip | truncatewords: 40, "" }}<a href="{{ post.url | relative_url }}">&hellip; read more &raquo;</a>
 
 ## Introducing FOSS Contributor Fund
 
