@@ -66,6 +66,7 @@
                    <div class="unit four-sixths" style="min-height:775px;">
                        <article>
                            <h1>{{ page.title }}</h1>
+                           <div id="toc"></div>
                            {{ content }}
                        </article>
                    </div>
@@ -85,3 +86,12 @@
     {% include analytics.html %}
     </body>
 </html>
+
+<script src="/path/to/toc.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#toc').toc();
+    });
+    </script>
+
