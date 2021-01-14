@@ -1,12 +1,11 @@
 ---
 layout: default
 title: null
-exclude_toc: true
+exclude_toc: false
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/foss.png" alt="FOSS Contributor Fund logo" height="auto"
-  width="50%"/>
+<img src="{{ site.baseurl }}/images/foss.png" alt="FOSS Contributor Fund logo" style=/>
 </p>
 <br>
 
