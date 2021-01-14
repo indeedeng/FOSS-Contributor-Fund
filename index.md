@@ -5,17 +5,13 @@ exclude_toc: false
 ---
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="width:800px; height:400px;clear:both;padding:10px;"/>
+<img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
 </p>
 <br>
-
-<div class="boxBorder">
 
 **Contents**
 * TOC
 {:toc}
-
-</div>
 
 
 ## Introducing FOSS Contributor Fund
