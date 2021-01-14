@@ -1,7 +1,7 @@
 ---
 layout: default
 title: null
-exclude_toc: false
+exclude_toc: true
 ---
 
 <p align="center">
