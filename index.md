@@ -3,6 +3,11 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: true
 ---
+<nav>
+test
+<br style="clear: left;" />
+
+</nav>
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo"/>
