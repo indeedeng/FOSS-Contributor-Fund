@@ -4,7 +4,10 @@ title: Indeed FOSS Contributor Fund
 exclude_toc: false
 ---
 <br>
+<p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="width:75%;height:auto"/>
+</p>
+<br>
 <br>
 
 **Contents**
