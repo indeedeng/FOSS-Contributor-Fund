@@ -74,7 +74,7 @@ Code and documentation aren’t the only ways employees can contribute to open s
 ### How do I collect and count votes?
 We recommend a transparent voting process. There are many internet voting tools, such as integrated Slack polls and [DirectPoll](http://directpoll.com/). 
 
-## How Do I Get Started?
+## How do I get started?
 Visit our [FOSS Contributor Fund repository on GitHub](https://github.com/indeedeng/FOSS-Contributor-Fund) for helpful resources.
 
 
