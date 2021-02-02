@@ -26,7 +26,7 @@ The FOSS Contributor Fund is a program framework that organizations can use to s
 
 
 
-## Open Source Sustainability
+## Open Source sustainability
 
 Most of the web wouldn’t work without the open source community. 
 
@@ -38,7 +38,7 @@ Indeed’s Open Source Program Office committed to helping sustain the projects 
 
 A FOSS Contributor Fund runs for one year. At the beginning of the year, you define the total amount your organization will donate to open source projects. At Indeed, we run the fund quarterly, awarding three grants per quarter. The elected project receives 1/12th of the year’s total fund. Anyone in the organization who makes an open source contribution in the same quarter as the election can vote. 
 
-### Project nominations and eligibility
+### Project nominations
 
 Anyone in your organization can nominate a project. We recommend the following requirements to ensure that your fund will be successful:
 
@@ -68,10 +68,10 @@ We recommend using [Starfish](https://github.com/indeedeng/starfish), our open s
 
 Code and documentation aren’t the only ways employees can contribute to open source projects. For example, they might organize a meetup or volunteer at an event. We recommend that you give voting privileges to these uncounted contributors. 
 
-### How do I collect and count votes?
+### Collecting and counting votes
 We recommend a transparent voting process. There are many internet voting tools, such as integrated Slack polls and [DirectPoll](http://directpoll.com/). 
 
-## How do I get started?
+## Getting started with your FOSS Fund
 Visit our [FOSS Contributor Fund repository on GitHub](https://github.com/indeedeng/FOSS-Contributor-Fund) for helpful resources.
 
 
