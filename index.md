@@ -26,7 +26,7 @@ The FOSS Contributor Fund is a program framework that organizations can use to s
 
 
 
-## Open Source sustainability
+## Open Source Sustainability
 
 Most of the web wouldn’t work without the open source community. 
 
@@ -34,11 +34,11 @@ A company’s core technology typically relies on numerous open source dependenc
 
 Indeed’s Open Source Program Office committed to helping sustain the projects we depend on. We’re committed financially and by encouraging our internal community to contribute to the projects they use. The FOSS Contributor Fund is a great way to marry the two. We gave our open source contributors a voice in the process and are enjoying these benefits: broad contribution activity, increased visibility into a wider range of projects, and a great list of projects we can use to onboard new contributors. 
 
-## How a fund works
+## How a Fund Works
 
 A FOSS Contributor Fund runs for one year. At the beginning of the year, you define the total amount your organization will donate to open source projects. At Indeed, we run the fund quarterly, awarding three grants per quarter. The elected project receives 1/12th of the year’s total fund. Anyone in the organization who makes an open source contribution in the same quarter as the election can vote. 
 
-### Project nominations
+### Project Nominations
 
 Anyone in your organization can nominate a project. We recommend the following requirements to ensure that your fund will be successful:
 
@@ -62,16 +62,16 @@ These are some examples of funding methods:
 * **The owner of the project can’t be an employee of your organization (or any of its subsidiaries).**<br>
 This helps prevent legal, ethical, or financial complications.
 
-### Who can vote?
+### Who Can Vote?
 To be eligible to vote on which projects will be selected, Indeed employees need to participate in open source initiatives during the previous quarter. 
 We recommend using [Starfish](https://github.com/indeedeng/starfish), our open source tool that identifies eligible voters. Starfish bases voter eligibility on pull requests, issues, and comments. 
 
 Code and documentation aren’t the only ways employees can contribute to open source projects. For example, they might organize a meetup or volunteer at an event. We recommend that you give voting privileges to these uncounted contributors. 
 
-### Collecting and counting votes
+### Collecting and Counting Votes
 We recommend a transparent voting process. There are many internet voting tools, such as integrated Slack polls and [DirectPoll](http://directpoll.com/). 
 
-## Getting started with your FOSS Fund
+## Getting Started with Your FOSS Fund
 Visit our [FOSS Contributor Fund repository on GitHub](https://github.com/indeedeng/FOSS-Contributor-Fund) for helpful resources.
 
 
