@@ -10,7 +10,7 @@
 * September - [Storybook](https://github.com/storybookjs/storybook)
 * October - [PyPi](https://github.com/pypa/warehouse)
 * November - [Faker.js](https://github.com/Marak/faker.js)
-* December - TBD
+* December - [Core.js](https://github.com/zloirock/core-js)
 
 ## 2019 Recipients
 * January - [Django](https://github.com/django/django)
