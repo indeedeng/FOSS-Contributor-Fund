@@ -7,10 +7,10 @@ The FOSS (Free and Open Source Software) Contributor Fund is a framework for sel
 The salient details of the FOSS Contributor Fund at Indeed are:
 
 * The initiative runs for one year.
+* The funds are distributed evenly on a monthly basis.
 * Anyone at the company can nominate a project to receive funds.
-* A full voting cycle runs for one month.
-* Each voting cycle, 1/12th of the total FOSS Contributor Fund is distributed to a nominated project, as determined by vote.
-* Anyone at the company who makes an open source contribution may cast a vote to determine where the funds should go in a given voting cycle.
+* If you contribute to an Open Source initiative, you can vote for a nominated project.
+* You must make an Open Source contribution in the same month you want to cast your vote.
 
 *We recommend that you review this playbook and come up with a similar set of criteria and processes that suit your unique needs. Any number of levers can be used to determine project and voter eligibility, and those may be different than what is outlined in the following document. We’d love to hear from you and learn from your experience running your own version.*
 
