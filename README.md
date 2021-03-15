@@ -7,7 +7,7 @@ The FOSS (Free and Open Source Software) Contributor Fund is a framework for sel
 The salient details of the FOSS Contributor Fund at Indeed are:
 
 * The initiative runs for one year.
-* The funds are distributed evenly on a monthly basis.
+* The funds are distributed evenly.
 * Anyone at the company can nominate a project to receive funds.
 * If you contribute to an Open Source initiative, you can vote for a nominated project.
 * You must make an Open Source contribution in the same quarter you want to cast your vote.
