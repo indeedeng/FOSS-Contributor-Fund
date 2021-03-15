@@ -11,6 +11,7 @@ The salient details of the FOSS Contributor Fund at Indeed are:
 * Anyone at the company can nominate a project to receive funds.
 * If you contribute to an Open Source initiative, you can vote for a nominated project.
 * You must make an Open Source contribution in the same quarter you want to cast your vote.
+* Funds are awarded to three projects per quarter. 
 
 ## Who Can Nominate A Project?
 
