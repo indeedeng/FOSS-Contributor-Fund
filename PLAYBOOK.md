@@ -10,7 +10,7 @@ The salient details of the FOSS Contributor Fund at Indeed are:
 * The funds are distributed evenly on a monthly basis.
 * Anyone at the company can nominate a project to receive funds.
 * If you contribute to an Open Source initiative, you can vote for a nominated project.
-* You must make an Open Source contribution in the same month you want to cast your vote.
+* You must make an Open Source contribution in the same quarter you want to cast your vote.
 
 *We recommend that you review this playbook and come up with a similar set of criteria and processes that suit your unique needs. Any number of levers can be used to determine project and voter eligibility, and those may be different than what is outlined in the following document. We’d love to hear from you and learn from your experience running your own version.*
 
@@ -83,7 +83,7 @@ This helps avoid situations which could be legally, ethically, or financially co
 ### How can I find out who is eligible to vote?
 Decide what voting eligibility criteria are most important to you, and determine which projects and contributions you consider to be eligible. For example, consider whether you want to allow any contributions, only work contributions, or contributions to specific projects, etc. Furthermore, you might consider whether you want to count contributions toward any FOSS dependency, only indirect dependencies, only projects with specific dependents, etc.
 
-At Indeed, anyone who makes an open source contribution in a calendar month can cast a vote to determine where the funds should go for that month’s voting cycle. That is, if you make an open source contribution during the month of July, you get to vote on where the July funds should go. Typically, the voting process starts right after the month ends, or shortly thereafter. This ensures that even if someone contributes on the last day of the month, they are still eligible to vote.
+At Indeed, we run the fund quarterly, awarding three grants per quarter. The elected project receives 1/12th of the year’s total fund. Anyone in the organization who makes an open source contribution in the same quarter as the election can vote.
 
 ### What counts as an open source contribution?
 A broad view of open source contribution is encouraged. We suggest you decide which mix of the following suits your specific needs.
