@@ -100,7 +100,7 @@ Once you’ve selected a tool to use for counting votes and verified all of the 
 * An eligible voter may only vote once
 * A voting period is typically open for one week. After that time has elapsed, remember to close the form or poll to prevent future votes.
 
-After the voting period ends, the project with the most votes is declared the winner of that month’s FOSS Contributor Fund. In order to remain transparent during the voting process, we recommend you publish the aggregate final results of the poll. This could be done on a wiki page, in a Slack channel, or other place of record. The information should be public within your company or organization.
+After the voting period ends, the top three projects with the most votes are declared the winners of that quarter’s FOSS Contributor Fund. In order to remain transparent during the voting process, we recommend you publish the aggregate final results of the poll. This could be done on a wiki page, in a Slack channel, or other place of record. The information should be public within your company or organization.
 
 ## Distributing Funds
 What happens after a winner is declared?
