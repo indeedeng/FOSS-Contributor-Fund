@@ -4,7 +4,7 @@
 
 The FOSS (Free and Open Source Software) Contributor Fund is a framework for selecting open source projects that a company supports financially. This initiative is designed to encourage open source participation and help companies take an active role in sustaining the projects they depend on. The initiative puts the sponsorship decision into the hands of open source contributors within the company, democratizing the sponsorship process.
 
-The salient details of the FOSS Contributor Fund:
+The salient details of the FOSS Contributor Fund at Indeed are:
 
 * The initiative runs for one year.
 * The funds are distributed evenly on a monthly basis.
