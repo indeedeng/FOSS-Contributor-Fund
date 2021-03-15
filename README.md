@@ -10,7 +10,7 @@ The salient details of the FOSS Contributor Fund:
 * The funds are distributed evenly on a monthly basis.
 * Anyone at the company can nominate a project to receive funds.
 * If you contribute to an Open Source initiative, you can vote for a nominated project.
-* You must make an Open Source contribution in the same month you want to cast your vote.
+* You must make an Open Source contribution in the same quarter you want to cast your vote.
 
 ## Who Can Nominate A Project?
 
@@ -62,7 +62,7 @@ This helps avoid situations which could be legally, ethically, or financially co
 
 ## Who Can Vote On A Distribution?
 
-Anyone who makes an open source contribution in a calendar month can cast a vote to determine where the funds should go for that month’s voting cycle. That is, if you make an open source contribution during the month of July, you get to vote on where the July funds should go.
+A FOSS Contributor Fund runs for one year. At the beginning of the year, you define the total amount your organization will donate to open source projects. At Indeed, we run the fund quarterly, awarding three grants per quarter. The elected project receives 1/12th of the year’s total fund. Anyone in the organization who makes an open source contribution in the same quarter as the election can vote.
 
 ## What Counts As An Open Source Contribution?
 
