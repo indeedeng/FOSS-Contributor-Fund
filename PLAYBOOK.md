@@ -7,7 +7,7 @@ The FOSS (Free and Open Source Software) Contributor Fund is a framework for sel
 The salient details of the FOSS Contributor Fund at Indeed are:
 
 * The initiative runs for one year.
-* The funds are distributed evenly on a monthly basis.
+* The funds are distributed evenly.
 * Anyone at the company can nominate a project to receive funds.
 * If you contribute to an Open Source initiative, you can vote for a nominated project.
 * You must make an Open Source contribution in the same quarter you want to cast your vote.
@@ -93,7 +93,7 @@ The [Starfish](https://github.com/indeedeng/starfish) tool looks for a specific 
 Where existing tooling doesn’t capture all open source activity, it is recommended to provide a way for potential voters to self-register based on uncounted contributions. For example, if an employee volunteers significant time organizing a meetup for an open source project and wishes to participate in the FOSS Contributor Fund voting process, there should be a mechanism for them to register their eligibility. Fund administrators may need to manually review these registrations. A template for tracking Non-Github contributions is available in the Getting Started section.
 
 ### How are votes counted?
-Transparency throughout the voting process is encouraged. There are a number of existing third-party platforms that can be used to collect votes. A lightweight option is [Google forms]. Polls within slack are yet another possibility. This method allows the fund administrator to make a channel with that month’s eligible voters, and use a Slack polling app such as [Simple Poll](https://simplepoll.rocks/) or [Polly](https://www.polly.ai/slack-poll) to capture votes and discussion in a single channel.
+Transparency throughout the voting process is encouraged. There are a number of existing third-party platforms that can be used to collect votes. A lightweight option is [Google forms]. Polls within slack are yet another possibility. This method allows the fund administrator to make a channel with that quarter’s eligible voters, and use a Slack polling app such as [Simple Poll](https://simplepoll.rocks/) or [Polly](https://www.polly.ai/slack-poll) to capture votes and discussion in a single channel.
 
 Once you’ve selected a tool to use for counting votes and verified all of the nominations meet the criteria, you can start the voting period. The steps required will vary depending on the tool you have selected, but a few best practices are outlined below:
 * Votes should be anonymous
