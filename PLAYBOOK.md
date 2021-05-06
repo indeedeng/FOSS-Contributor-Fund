@@ -27,6 +27,7 @@ To get started, you will need to set up a few mechanisms to collect information 
 ### Other Resources
 * [FOSS Fund Blueprint](https://github.com/indeedeng/FOSS-Contributor-Fund)
 * [Relevant Indeed FOSS Contributor Fund Blog Posts](https://medium.com/indeed-engineering/search?q=foss%20contributor%20fund)
+* [Executive Slide Deck](https://docs.google.com/presentation/d/14qfu8oCy2TUjkOSHzbfoaZSQFFlebenVjiGyNb5g3g4/edit#slide=id.g914b736bc3_2_49)
 
 ### Contact Us
 You can contribute to this guide by emailing opening a pull request.
