@@ -22,7 +22,7 @@ To get started, you will need to set up a few mechanisms to collect information 
 * A mechanism to collect non-Github contribution activity
 * A mechanism for Identifying eligible voters using [Starfish](https://github.com/indeedeng/starfish)
 * A mechanism for voting (see Voting section for suggested tools)
-* You may also want to work ahead to get common vendors into your procurement system, such as [Open Collective](https://opencollective.com/) or the [Software Freedom Conservancy](https://sfconservancy.org/)
+* You may also want to work ahead to get common vendors into your procurement system, such as [Open Source Collective](https://opencollective.com/opensource) or the [Software Freedom Conservancy](https://sfconservancy.org/)
 
 ### Other Resources
 * [FOSS Fund Blueprint](https://github.com/indeedeng/FOSS-Contributor-Fund)
@@ -59,7 +59,7 @@ Other options include:
 * Licenses endorsed by the [Free Software Foundation](https://www.gnu.org/licenses/license-list.html)
 * Licenses that meet the [Debian Free Software Guidelines](https://wiki.debian.org/DFSGLicenses)
 * Licenses on the [Fedora Software License List](https://fedoraproject.org/wiki/Licensing:Main?rd=Licensing)
-Wikipedia has a [great comparison of licenses approved by different authorities.](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses#Approvals)
+* Wikipedia has a [great comparison of licenses approved by different authorities.](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses#Approvals)
 
 By using an existing list of licenses approved by a neutral third party, one can avoid making ad-hoc decisions about which projects should or should not qualify based on their license.
 
@@ -73,7 +73,7 @@ As a practical matter, there must be a way to transfer funds to the project. The
 * GitHub Sponsors
 * An umbrella foundation like Software Freedom Conservancy
 
-The initiative assumes that projects which have clearly indicated how to express financial support have put some amount of thought into how funds might be used. Further, a company's procurement department is unlikely to be able to process a contribution to a project with no clear mechanism for receiving funds. We advise that you contact your procurement department for guidance on what they consider to be acceptable mechanisms of payment (i.e. would they be comfortable processing a payment to a maintainer whose only way of accepting funds is by PayPal?)
+The initiative assumes that projects which have clearly indicated how to express financial support have put some amount of thought into how funds might be used. Further, a company's procurement department is unlikely to be able to process a contribution to a project with no clear mechanism for receiving funds. We advise that you contact your procurement department for guidance on what they consider to be acceptable mechanisms of payment (i.e., would they be comfortable processing a payment to a maintainer whose only way of accepting funds is by PayPal?)
 
 #### The project cannot be owned by an employee
 Projects that are wholly owned by an individual employed by the company or one of the company's subsidiaries should be ineligible to receive a contribution from the FOSS Contributor Fund.
@@ -94,7 +94,7 @@ The [Starfish](https://github.com/indeedeng/starfish) tool looks for a specific 
 Where existing tooling doesn’t capture all open source activity, it is recommended to provide a way for potential voters to self-register based on uncounted contributions. For example, if an employee volunteers significant time organizing a meetup for an open source project and wishes to participate in the FOSS Contributor Fund voting process, there should be a mechanism for them to register their eligibility. Fund administrators may need to manually review these registrations. A template for tracking Non-Github contributions is available in the Getting Started section.
 
 ### How are votes counted?
-Transparency throughout the voting process is encouraged. There are a number of existing third-party platforms that can be used to collect votes. A lightweight option is [Google forms]. Polls within slack are yet another possibility. This method allows the fund administrator to make a channel with that quarter’s eligible voters, and use a Slack polling app such as [Simple Poll](https://simplepoll.rocks/) or [Polly](https://www.polly.ai/slack-poll) to capture votes and discussion in a single channel.
+Transparency throughout the voting process is encouraged. There are a number of existing third-party platforms that can be used to collect votes. A lightweight option is [Google forms](https://docs.google.com/forms/u/0/). Polls within slack are yet another possibility. This method allows the fund administrator to make a channel with that quarter’s eligible voters, and use a Slack polling app such as [Simple Poll](https://simplepoll.rocks/) or [Polly](https://www.polly.ai/slack-poll) to capture votes and discussion in a single channel.
 
 Once you’ve selected a tool to use for counting votes and verified all of the nominations meet the criteria, you can start the voting period. The steps required will vary depending on the tool you have selected, but a few best practices are outlined below:
 * Votes should be anonymous
