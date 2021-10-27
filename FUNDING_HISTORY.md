@@ -1,3 +1,20 @@
+## 2021 Recipients
+_In 2021 we moved to a quarterly voting process, awarding three or more awards every quarter._
+### Q1 
+* [Apache Arrow](https://github.com/apache/arrow)
+* [celery](https://github.com/celery/celery)
+* [GATE](https://gate.ac.uk/)
+* [The R Project for Statistical Computing](https://www.r-project.org/)
+### Q2
+* [Apache Kafka](https://github.com/apache/kafka)
+* [Appium](https://github.com/appium/appium)
+* [Plotly](https://github.com/plotly)
+### Q3
+* [Pandas](https://github.com/pandas-dev/pandas)
+* [Let's Encrypt](https://github.com/letsencrypt)
+* [Storybook](https://github.com/storybookjs/storybook)
+ 
+
 ## 2020 Recipients
 * January - [GNOME](https://www.gnome.org/)
 * February - [Babel](https://github.com/babel/babel)
