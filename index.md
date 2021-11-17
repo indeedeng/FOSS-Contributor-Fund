@@ -3,8 +3,9 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: false
 ---
+<br>
 
-**Note:** New FOSS Fund Ebook Available: [Investing in Open Source](https://opensource.indeedeng.io/Investing-in-Open-Source/)
+**New FOSS Fund Ebook Available**: [Investing in Open Source](https://opensource.indeedeng.io/Investing-in-Open-Source/)
 {: .alert .alert-info}
 
 <br>
