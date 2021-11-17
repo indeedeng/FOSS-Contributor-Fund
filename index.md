@@ -5,14 +5,13 @@ exclude_toc: false
 ---
 <br>
 
-**New FOSS Fund Ebook Available**: [Investing in Open Source](https://opensource.indeedeng.io/Investing-in-Open-Source/)
+**New FOSS Fund Ebook Available:** **[Investing in Open Source](https://opensource.indeedeng.io/Investing-in-Open-Source/)**
 {: .alert .alert-info}
 
 <br>
 <p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="width:75%;height:auto;padding-left:30px;"/>
 </p>
-<br>
 <br>
 
 **Contents**
