@@ -3,6 +3,16 @@ layout: default
 title: Indeed FOSS Contributor Fund
 exclude_toc: false
 ---
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+New FOSS Fund Ebook Available: Investing in Open Source(https://opensource.indeedeng.io/Investing-in-Open-Source/)
+
+</div>
+</div>
+
 <br>
 <p align="center">
 <img src="{{ site.baseurl }}/images/FOSS.png" alt="FOSS Contributor Fund logo" style="width:75%;height:auto;padding-left:30px;"/>
